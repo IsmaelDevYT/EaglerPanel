@@ -10,5 +10,6 @@
 <p>chmod +x install.sh</p>
 <p>./install.sh</p>
 <br>
-<h2> Renember to use chmod +X name.sh </h2>
+<h2> Renember to use chmod +c name.sh </h2>
+<h2> Change the "name.sh" according to the files ^ above </h2>
 <p>To start the script</p>
