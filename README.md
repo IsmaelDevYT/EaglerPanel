@@ -10,6 +10,8 @@
 <p>chmod +x install.sh</p>
 <p>./install.sh</p>
 <p>sdk install java 17.0.9-amzn</p>
+<p>write "y", without ", and MAKE SURE TO WRITE y</p>
+<p>enter, and wait it to finish and do the folowing commands</p>
 <p>chmod +x paper.sh</p>
 <p>./paper.sh</p>
 <p>Create another tab and chmod +x waterfall.sh</p>
